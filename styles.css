@@ -1,0 +1,237 @@
+/* Find The Penguin Stylesheet
+	James Volino 
+	1.23.20 */
+	
+body {
+	background-color: rgb(49.8, 73.3, 80);
+}
+
+div#gameholder{
+	border: none;
+	width: 680px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#title{
+	background-image: url("penguins_media/media/penguin_title.png");
+	width: 600px;
+	height: 125px;
+	margin: 0 auto;
+}
+
+input#button{
+	display: block;
+	clear: left;
+	margin-right: auto;
+	margin-left: auto;
+	width: 150px;
+	height: 50px;
+	border-radius: 30px;
+	background-color: black;
+	color: white;
+}
+
+/* -------------------------------- Mound 1--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound1 {
+	background-image: url("penguins_media/media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound1:hover{
+	background-image: url("penguins_media/media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound1:active{
+	background-image: url("penguins_media/media/penguin_1.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 1 ----------------------*/
+/* -------------------------------- Mound 2--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound2 {
+	background-image: url("penguins_media/media/mound_2.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound2:hover{
+	background-image: url("penguins_media/media/mound_2_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound2:active{
+	background-image: url("penguins_media/media/penguin_2.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 2 ----------------------*/
+/* -------------------------------- Mound 3--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound3 {
+	background-image: url("penguins_media/media/mound_3.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound3:hover{
+	background-image: url("penguins_media/media/mound_3_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound3:active{
+	background-image: url("penguins_media/media/penguin_3.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 3 ----------------------*/
+/* -------------------------------- Mound 4--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound4 {
+	background-image: url("penguins_media/media/mound_4.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound4:hover{
+	background-image: url("penguins_media/media/mound_4_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound4:active{
+	background-image: url("penguins_media/media/penguin_4.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 4 ----------------------*/
+/* -------------------------------- Mound 5--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound5 {
+	background-image: url("penguins_media/media/mound_5.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound5:hover{
+	background-image: url("penguins_media/media/mound_5_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound5:active{
+	background-image: url("penguins_media/media/penguin_5.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 5 ----------------------*/
+/* -------------------------------- Mound 6--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound6 {
+	background-image: url("penguins_media/media/mound_6.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound6:hover{
+	background-image: url("penguins_media/media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound6:active{
+	background-image: url("penguins_media/media/penguin_6.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 6 ----------------------*/
+/* -------------------------------- Mound 1--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound7 {
+	background-image: url("penguins_media/media/mound_7.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound7:hover{
+	background-image: url("penguins_media/media/mound_7_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound7:active{
+	background-image: url("penguins_media/media/penguin_7.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 7 ----------------------*/
+/* -------------------------------- Mound 8--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound8 {
+	background-image: url("penguins_media/media/mound_8.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound8:hover{
+	background-image: url("penguins_media/media/mound_8_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound8:active{
+	background-image: url("penguins_media/media/penguin_8.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 8 ----------------------*/
+/* -------------------------------- Mound 9--------------------------------- */
+/* This is the natural styling for the <div>*/
+
+div.mound9 {
+	background-image: url("penguins_media/media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+/* This pseudo-class is applied on hover */
+div.mound9:hover{
+	background-image: url("penguins_media/media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* This psuedo-class is applied when you click a mound */
+div.mound9:active{
+	background-image: url("penguins_media/media/penguin_1.png");
+	transition: 1.5s;
+}
+/*---------------------------END OF MOUND 9 ----------------------*/
+/* -------------------------YETI----------------------------------*/
+#yeti:active {
+	background-image: url("penguins_media/media/yeti.png");
+}
+
+
+
+
+
+
+
+
+
+
